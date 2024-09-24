@@ -6,5 +6,5 @@ The main features for this project include:
 4. Implemented core mechanics such as collision detection, score tracking, and snake progression. 
 
 Technical Skills: 
-1. Python Programming Languange
+1. Python Programming Languange.
 2. Object-Oriented Programming (OOP) to put together the fundamental components of a video game.
